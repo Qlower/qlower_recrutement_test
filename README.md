@@ -12,11 +12,11 @@
 - Create three endpoints on Django to get, update and create an article
 - Create a simple frontend project in React JS
 - Connect the frontend with the backend to call the three endponts
-- Add 4 components (2 textfields for 'topic' and 'author', 1 textarea for 'body' and 1 button to submit)
+- Install Material UI Library and add 4 Material UI components (2 textfields for 'topic' and 'author', 1 textarea for 'body' and 1 button to submit) in a container
 
 
 ### TO KNOW
 
-- No style need for the frontend, juste create a CSS that is imported in your js file
+- No style or Material Theme need for the frontend, juste create a CSS that is imported in your js file
 - You can use Google to solve problems
 - ChatGPT and Github Copilot are forbidden
