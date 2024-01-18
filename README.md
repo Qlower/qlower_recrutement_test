@@ -8,11 +8,13 @@
 
 - Build docker
 - Create postgreSQL database with current Docker Compose
-- Add model "Article" with 5 fields: 'topic' (CharField), 'body' (TextField), 'author' (TextField), 'date_posted' (DateField), 'date_updated' (DateField)
+- Add model "Article" with 5 fields: 'topic' (CharField), 'body' (TextField), 'author' (TextField), 'datetime_posted' (DateField), 'date_updated' (DateField)
 - Create three endpoints on Django to get, update and create an article
 - Create a simple frontend project in React JS
 - Connect the frontend with the backend to call the three endponts
 - Install Material UI Library and add 4 Material UI components (2 textfields for 'topic' and 'author', 1 textarea for 'body' and 1 button to submit) in a container
+- When everything is done and some articles have been saved in the databse, update Article model by adding a 'date_posted' field of field Date.
+- Copy and convert all elements from column 'datetime_posted' to column 'date_posted' with Django prompt
 
 
 ### TO KNOW
