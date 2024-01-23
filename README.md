@@ -14,7 +14,6 @@
 - Connect the frontend with the backend to call the three endponts
 - Install Material UI Library and add 4 Material UI components (2 textfields for 'topic' and 'author', 1 textarea for 'body' and 1 button to submit) in a container
 - When everything is done and some articles have been saved in the databse, update Article model by adding a 'date_posted' field of type Date.
-- Copy and convert all elements from column 'datetime_posted' to column 'date_posted' with Django prompt
 
 
 ### TO KNOW
